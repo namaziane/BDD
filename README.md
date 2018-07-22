@@ -1,2 +1,3 @@
 # BDD
-angular samples
+Bdd example with java and JUnit
+
